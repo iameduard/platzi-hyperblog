@@ -1,0 +1,23 @@
+commit 5d81fbf1e41e8b5e614e25069cb7cc207c60a54d
+Author: iameduard <iameduard@hotmail.com>
+Date:   Wed Aug 17 21:06:55 2022 -0300
+
+    agregando nombre de artista favorito
+
+commit 9b89aa3c1fe1ad746779583f444661b7c6aa7efc
+Author: iameduard <iameduard@hotmail.com>
+Date:   Wed Aug 17 21:03:06 2022 -0300
+
+    gregue gusto
+
+commit 85ab0b0fb75b657df6cb2f500f60404c2a0b975a
+Author: iameduard <iameduard@hotmail.com>
+Date:   Wed Aug 17 20:48:26 2022 -0300
+
+    family was changed
+
+commit df2828b6df74755c9dfbd9ccbbaba3225b11ad96
+Author: iameduard <iameduard@hotmail.com>
+Date:   Wed Aug 17 20:29:09 2022 -0300
+
+    first commit
